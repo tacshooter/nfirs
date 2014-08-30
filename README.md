@@ -1,3 +1,1 @@
-# nfirs
-
-a [Sails](http://sailsjs.org) application
+NFIRS Nodejs and Sailsjs Application
